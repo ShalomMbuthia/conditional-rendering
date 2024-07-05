@@ -1,0 +1,10 @@
+.welcome message{
+  font-size: large;
+  background-color: greenyellow;
+  color: black;
+  padding: 10px;
+  border: 5px;
+}
+.login{
+  background-color: aqua;
+}
